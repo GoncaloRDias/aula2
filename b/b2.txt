@@ -1,0 +1,2 @@
+Este é o ficheiro b2.txt
+
